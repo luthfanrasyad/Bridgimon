@@ -1,19 +1,19 @@
 <template>
-    <div class="home frame">
-        home page
+    <div class="event-list frame">
+        Event list
     </div>
 </template>
 
 <script>
 export default {
-    name: "Home"
+    name: "EventList"
 }
 </script>
 
+
 <style lang="scss" scoped>
-.home {
-    
+.event-list {
+
 }
 </style>
-
 
